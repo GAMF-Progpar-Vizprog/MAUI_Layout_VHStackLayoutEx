@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace MAUI_VHStackLAyoutEx;
+namespace MAUI_Layout_VHStackLayoutEx;
 
 public static class MauiProgram
 {

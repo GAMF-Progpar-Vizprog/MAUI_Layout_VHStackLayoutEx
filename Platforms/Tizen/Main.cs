@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace MAUI_VHStackLAyoutEx;
+namespace MAUI_Layout_VHStackLayoutEx;
 
 class Program : MauiApplication
 {

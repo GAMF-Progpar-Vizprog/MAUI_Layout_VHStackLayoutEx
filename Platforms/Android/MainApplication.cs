@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace MAUI_VHStackLAyoutEx;
+namespace MAUI_Layout_VHStackLayoutEx;
 
 [Application]
 public class MainApplication : MauiApplication

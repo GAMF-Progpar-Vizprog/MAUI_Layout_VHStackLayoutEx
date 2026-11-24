@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MAUI_VHStackLAyoutEx;
+namespace MAUI_Layout_VHStackLayoutEx;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

@@ -1,4 +1,4 @@
-﻿namespace MAUI_VHStackLAyoutEx
+﻿namespace MAUI_Layout_VHStackLayoutEx
 {
 	public partial class MainPage : ContentPage
 	{
